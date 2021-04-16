@@ -1,0 +1,25 @@
+1. Install the program first. Then close it! (do not click on run!)
+
+2. Copy VideoScribeBin from "VideoScribe Crack" folder to the installation folder and OVERWRITE the old one.
+Normally C:\program files\Sparkol\Sparkol VideoScribe\
+
+3. Register account on Sparkol website (new if you've already used a trial)
+
+4. Use credential to signin to VideoScribe
+5. Enjoy
+
+
+NOTE: If you have any problems with it saying your new account doesn't work just DELETE the following folder and reopen the program:
+C:\Users\username\AppData\Roaming\VideoScribeDesktop\Local Store\#SharedObjects
+DELETE the entire #SharedObjects folder.
+
+:::::Tutorials:::::
+ tutorials, etc:
+http://www.videoscribe.co/help
+http://help.videoscribe.co/support/solutions
+
+=====================================
+Install Notes by Programming Art 2016
+
+Please Subscribe My Channel: https://goo.gl/PX8dzL
+=====================================
